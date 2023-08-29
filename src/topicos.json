@@ -1,0 +1,61 @@
+[
+    {"topicoId": 1,
+        "topico": "Emissão de NF-e",
+        "perguntas": [
+        {"perguntaId": 1, "pergunta": "Rejeições SEFAZ"},
+        {"perguntaId": 2, "pergunta": "Emitir Carta de correção"},
+        {"perguntaId": 3, "pergunta": "Cancelar NF-e"},
+        {"perguntaId": 4, "pergunta": "Uso Denegado"},
+        {"perguntaId": 5, "pergunta": "Consumo indevido"},
+        {"perguntaId": 6, "pergunta": "Erros/avisos ao solicitar NF-e"},
+        {"perguntaId": 7, "pergunta": "Emitir NF-e complementar"}
+        ]
+    },
+    {"topicoId": 2,
+        "topico": "Devolução NFe",
+        "perguntas": [
+        {"perguntaId": 8, "pergunta": "Devolução de compra"},
+        {"perguntaId": 9, "pergunta": "Devolução de venda"},
+        {"perguntaId": 10, "pergunta": "Devolução com geração de crédito"},
+        {"perguntaId": 11, "pergunta": "Entrada de devolução"},
+        {"perguntaId": 12, "pergunta": "Cancelamento de devolução"}
+        ]
+    },
+    {"topicoId": 3,
+        "topico": "Entrada de NF-e (compras)",
+        "perguntas": [
+        {"perguntaId": 13, "pergunta": "Entrada via xml"},
+        {"perguntaId": 14, "pergunta": "Entrada via pedido de compras"},
+        {"perguntaId": 15, "pergunta": "Críticas recebimento fiscal"},
+        {"perguntaId": 16, "pergunta": "Divergência impostos"},
+        {"perguntaId": 17, "pergunta": "Análise de custos"}
+        ]
+    },
+    {"topicoId": 4,
+        "topico": "Pedidos vendas/compras",
+        "perguntas": [
+        {"perguntaId": 18, "pergunta": "Auditoria de pedidos"},
+        {"perguntaId": 19, "pergunta": "Saldo de reserva"}
+        ]
+    },
+    {"topicoId": 5,
+        "topico": "Cadastros",
+        "perguntas": [
+        {"perguntaId": 20, "pergunta": "NCM/Classificação Fiscal"},
+        {"perguntaId": 21, "pergunta": "CFOP"},
+        {"perguntaId": 22, "pergunta": "Condição de Pagamento"},
+        {"perguntaId": 23, "pergunta": "Tipo de Documento"},
+        {"perguntaId": 24, "pergunta": "Transportadora"},
+        {"perguntaId": 25, "pergunta": "Vendedor/Comprador"}
+        ]
+    },
+    {"topicoId": 6,
+        "topico": "Inventário",
+        "perguntas": [
+        {"perguntaId": 26, "pergunta": "Boas práticas"},
+        {"perguntaId": 27, "pergunta": "Relatórios contagem de estoque"},
+        {"perguntaId": 28, "pergunta": "Lançamento de Inventário"},
+        {"perguntaId": 29, "pergunta": "Estorno de Inventário"}
+        ]
+    }
+]
